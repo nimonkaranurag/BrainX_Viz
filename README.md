@@ -105,10 +105,10 @@ The main analysis script can be found in `analysis_script.py`.
    ```
 
 ## 🤝 Contributors
-- **Your Name** - Lead Analyst and Developer
+- **Anurag Ravi Nimonkar**
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 📝 Acknowledgements
 Special thanks to the open-source community and all data contributors.

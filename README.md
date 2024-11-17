@@ -38,7 +38,7 @@ We conducted a comprehensive EDA to understand the dataset's structure and the d
 - **Distribution of Average Sentiment Probabilities**: Strong right skew, indicating high confidence in sentiment classifications.
 - **Sentiment-Success Correlation**: Strong association between neutral/positive sentiment and trial success.
 
-![Clinical Trials Analysis](clinical_trials_analysis.png)
+![Clinical Trials Analysis](enhanced_clinical_trials_analysis.png)
 
 ## 🛠️ Feature Engineering
 To enhance the predictive power of the dataset, we engineered the following features:

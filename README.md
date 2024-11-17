@@ -92,8 +92,8 @@ The main analysis script can be found in `main.py`.
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/clinical-trial-sentiment-analysis.git
-   cd clinical-trial-sentiment-analysis
+   git clone https://github.com/nimonkaranurag/BrainX_Viz.git
+   cd BrainX_Viz
    ```
 2. Install the dependencies:
    ```bash
@@ -101,11 +101,12 @@ The main analysis script can be found in `main.py`.
    ```
 3. Run the analysis script:
    ```bash
-   python analysis_script.py
+   python main.py
    ```
 
 ## 🤝 Contributors
-- **Your Name** - Lead Analyst and Developer
+- **Anurag Nimonkar** - Lead Analyst and Developer
+- **Asma Ahmed Khalifa Alshukaili** - Data Analysis
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

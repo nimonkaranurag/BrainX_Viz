@@ -38,7 +38,7 @@ We conducted a comprehensive EDA to understand the dataset's structure and the d
 - **Distribution of Average Sentiment Probabilities**: Strong right skew, indicating high confidence in sentiment classifications.
 - **Sentiment-Success Correlation**: Strong association between neutral/positive sentiment and trial success.
 
-![Clinical Trials Analysis](clinical_trials_analysis.png)
+![Clinical Trials Analysis](enhanced_clinical_trials_analysis.png)
 
 ## 🛠️ Feature Engineering
 To enhance the predictive power of the dataset, we engineered the following features:
@@ -92,8 +92,8 @@ The main analysis script can be found in `analysis_script.py`.
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/clinical-trial-sentiment-analysis.git
-   cd clinical-trial-sentiment-analysis
+   git clone https://github.com/nimonkaranurag/BrainX_Viz.git
+   cd BrainX_Viz
    ```
 2. Install the dependencies:
    ```bash
@@ -105,7 +105,8 @@ The main analysis script can be found in `analysis_script.py`.
    ```
 
 ## 🤝 Contributors
-- **Your Name** - Lead Analyst and Developer
+- **Anurag Nimonkar** - Lead Analyst and Developer
+- **Asma Ahmed Khalifa Alshukaili** - Data Analysis
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

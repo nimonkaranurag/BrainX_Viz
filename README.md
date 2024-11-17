@@ -101,7 +101,7 @@ The main analysis script can be found in `analysis_script.py`.
    ```
 3. Run the analysis script:
    ```bash
-   python analysis_script.py
+   python main.py
    ```
 
 ## 🤝 Contributors
